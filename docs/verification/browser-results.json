@@ -1,0 +1,140 @@
+{
+  "status": "PASS",
+  "checkedAt": "2026-10-16",
+  "layouts": [
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "height": 720,
+      "pass": true
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "pass": true
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "height": 740,
+      "pass": true
+    },
+    {
+      "route": "/work/cricket-intelligence/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/work/cricket-intelligence/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    },
+    {
+      "route": "/work/retail-share-of-wallet/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/work/retail-share-of-wallet/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    },
+    {
+      "route": "/work/netzeroaqua/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/work/netzeroaqua/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    },
+    {
+      "route": "/work/seaweedz-energy/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/work/seaweedz-energy/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    },
+    {
+      "route": "/work/svln-engineering/",
+      "width": 1440,
+      "height": 900,
+      "pass": true
+    },
+    {
+      "route": "/work/svln-engineering/",
+      "width": 390,
+      "height": 844,
+      "pass": true
+    }
+  ],
+  "checks": [
+    "Mobile menu opens",
+    "Menu keyboard focus wraps",
+    "Escape closes menu and restores focus",
+    "Analytics filter shows three correct projects",
+    "Web filter shows SVLN",
+    "Project jump restores hidden projects",
+    "Experience details expand",
+    "Recruiter and freelance drafts differ",
+    "Telephone action matches resume",
+    "Sound is off on first load",
+    "Explicit interaction enables sound",
+    "Sound toggles off",
+    "Copy email writes clipboard and reports success",
+    "Clipboard failure is reported honestly",
+    "cricket-intelligence: seven narrative headings",
+    "retail-share-of-wallet: seven narrative headings",
+    "netzeroaqua: seven narrative headings",
+    "seaweedz-energy: seven narrative headings",
+    "svln-engineering: seven narrative headings",
+    "Reduced motion uses static hero and natural scrolling",
+    "All content exists without JavaScript rendering"
+  ],
+  "consoleErrors": [],
+  "localUnthrottledVitals": {
+    "cls": 0,
+    "lcp": 132,
+    "resources": [
+      {
+        "name": "/styles.css",
+        "bytes": 29719
+      },
+      {
+        "name": "/app.js",
+        "bytes": 11823
+      },
+      {
+        "name": "/assets/grain.svg",
+        "bytes": 581
+      }
+    ],
+    "domNodes": 2862
+  },
+  "limits": "Local Chromium smoke tests, not a Lighthouse audit or cross-browser certification. No remote deployment."
+}

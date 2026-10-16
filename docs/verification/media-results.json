@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "project": "cricket-intelligence",
+      "galleryFigures": 3,
+      "status": "PASS"
+    },
+    {
+      "project": "retail-share-of-wallet",
+      "galleryFigures": 2,
+      "status": "PASS"
+    },
+    {
+      "project": "netzeroaqua",
+      "galleryFigures": 2,
+      "status": "PASS"
+    },
+    {
+      "project": "seaweedz-energy",
+      "galleryFigures": 2,
+      "status": "PASS"
+    },
+    {
+      "project": "svln-engineering",
+      "galleryFigures": 2,
+      "status": "PASS"
+    }
+  ],
+  "resumeHttp": 200,
+  "missingRouteHttp": 404,
+  "noJsMobileNavigation": "PASS"
+}
